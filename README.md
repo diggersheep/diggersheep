@@ -1,4 +1,10 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=diggersheep&show_icons=true&theme=radical)
+
+
+
+Twitter: [diggersheep](https://twitter.com/diggersheep)
+
+LinkedIn: [Alexandre COMBEAU](https://www.linkedin.com/in/alexandre-combeau-18910a149/)
 
 <!--
 **diggersheep/diggersheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
